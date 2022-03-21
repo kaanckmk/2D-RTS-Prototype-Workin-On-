@@ -6,5 +6,6 @@ using UnityEngine;
  in future developments*/
 public interface IMove 
 {
-    
+    private const float speed 40f; 
+        
 }
