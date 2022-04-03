@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Unit : Entity, IMove
+public class Unit : Entity
 {
     
 }
